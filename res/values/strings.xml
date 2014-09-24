@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLite_55410595</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insert">Insert</string>
+    <string name="name">Name</string>
+    <string name="tel">Tel</string>
+    <string name="show">Show</string>
+
+</resources>
